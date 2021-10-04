@@ -12,7 +12,7 @@ import { Strings } from '../interfaces/Strings';
 
 
 
-export default function Home() {
+export default function HomePage() {
 
 
   //Configuraciones
