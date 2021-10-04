@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+/* Texts */
+.base-text-color{
+    @apply text-trueGray-600;
+}
+
+/* Inputs */
+.simple-input{
+    @apply  rounded-xl bg-white outline-none;
+}
+
+/* Buttons */
+.simple-dimension-btn{
+    @apply py-1.5  rounded-2xl w-44;
+}
+
+.simple-style-btn{
+    @apply bg-trueGray-700 text-white;
+}
+.green-style-btn{
+    @apply text-teal-800 bg-teal-200;
+}
+
+
